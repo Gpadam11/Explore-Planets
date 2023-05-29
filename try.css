@@ -1,0 +1,67 @@
+.p1 {
+    background-image: url(https://www.universetoday.com/wp-content/uploads/2014/12/Mercury-Messenger-enhanced-color.jpg);
+    }
+    .p2 {
+    background-image: url(https://th.bing.com/th/id/OIP.-9HGERLOgrbqq9doseJOsAHaHa?pid=ImgDet&rs=1);
+    }
+
+    .p3 { 
+    background-image: url(https://th.bing.com/th/id/OIP.DRqPaTpnn5hfP4CV3kc-BwHaHa?pid=ImgDet&w=480&h=480&rs=1);
+    }  
+    .p4 {
+    background-image: url(https://th.bing.com/th/id/OIP.ha5yJcWx7Lr0u7pHOKx21QHaEK?w=283&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7);
+    }
+    .p5 {
+    background-image: url(https://th.bing.com/th/id/OIP.u895nfAeH1VDbD_mz1sA2AHaEK?w=331&h=186&c=7&r=0&o=5&dpr=1.5&pid=1.7);
+    }
+    .p6 {
+    background-image: url(https://th.bing.com/th/id/OIP.DaamG1w5uBE9rGey-5J-ggHaD4?w=284&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7);
+    }
+    .p7{
+    background-image: url(https://th.bing.com/th/id/OIP.NQrPjOpEoeBupavBXXwh7gHaEK?w=315&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7);
+    }
+    .p8{
+    background-image: url(https://th.bing.com/th/id/OIP.aPsWaBAg-_9kGQKGFiWA7gHaEo?w=295&h=184&c=7&r=0&o=5&dpr=1.5&pid=1.7);
+    }
+
+    body{
+      background-image: url(https://media.gettyimages.com/id/1159238834/vector/stars-space-and-night-sky.jpg?s=612x612&w=0&k=20&c=5MRucVRqOGqVYkLk2v5zWzZjtHHEJJOHrSHDmEojpZo=);
+      background-repeat:repeat;
+        background-attachment:scroll;
+        background-size:contain;
+    }
+  
+    .planets {
+       width: 20rem;
+        height: 20rem;
+        outline: none;
+        border: 3px solid #404B69;
+        font-size: 2rem;
+        font-family:'Times New Roman', Times, serif;
+        line-height: 2;
+        font-weight: 300;
+        color: #ffffff;
+        text-shadow: 1px 0 #1995be;
+        border-radius: 15px;
+        /* //the buttons should be to right side of the page and buttons should be one below each other and no button should be side by side , they should be one below each other, for this use  */
+        display: flexbox;
+        width: 500px;
+        height: 200px;
+        text-align:center;
+        margin: 20px;
+        margin-left: 60px;
+      }
+
+      #title{
+        margin-left: 60px;
+        margin-top: 10px;
+        margin-bottom: 0px;
+        /* //centre align the text */
+        text-align: center;
+        font-size: 6rem;
+        font-family:'Times New Roman', Times, serif;
+        font-weight: 200;
+        color: #ffffff;
+        text-shadow: 1px 0 #1995be;
+
+      }
